@@ -5,22 +5,36 @@
 
 ## :checkered_flag: Índice
 
-* [Ícones e imagens](#iphone-icones-e-imagens)
-* [Fontes](#iphone-fontes)
-* [Cores](#iphone-cores)
-* [Gerenciamento de atividades](#computer-gerenciamento-de-atividades)
-* [Design](#computer-design)
-* [APIS](#computer-apis)
-* [Modelagem de negócio](#wrench-modelagem-de-negocio)
-* [Gravar tela e edição de vídeo](#gravar-tela-e-edicao-de-video)
-* [Dashboards](#dashboard)
-* [Livros](#livros)
+* [Ícones e imagens](#📷-icones-e-imagens)
+* [Fontes](#🅰️-fontes)
+* [Cores](#🎨-cores)
+* [Gerenciamento de atividades](#📁-gerenciamento-de-atividades)
+* [Design](#📱-design)
+* [APIS](#💻-apis)
+* [Modelagem de negócio](#💡-modelagem-de-negocio)
+* [Gravar tela e edição de vídeo](#🎥-gravar-tela-e-edicao-de-video)
+* [Dashboards](#📊-dashboard)
+* [Livros](#📚-livros)
 
-## :bulb: Sobre
+## 📷 Ícones e imagens
 
+## 🅰️ Fontes
 
+## 🎨 Cores
 
-## :iphone: Demo
+## 📁 Gerenciamento de atividades
+
+## 📱 Design
+
+## 💻 APIS
+
+## 💡 Modelagem de negócio
+
+## 🎥 Gravar tela e edição de vídeo
+
+## 📊 Dashboards
+
+## 📚 Livros
 
 Criando com :heart: pelas embaixadoras do Mega Hack Women 2020
    
