@@ -79,5 +79,5 @@
 
 <br>
 <br>
-Criando com :heart: pelas embaixadoras do Mega Hack Women 2020
+Criado com :heart: pelas embaixadoras do Mega Hack Women 2020
    
