@@ -5,18 +5,18 @@
 
 ## :checkered_flag: Índice
 
-* [Ícones e imagens](#📷-ícones-e-imagens)
-* [Fontes](#🅰️-fontes)
-* [Cores](#🎨-cores)
-* [Gerenciamento de atividades](#📁-gerenciamento-de-atividades)
-* [Design](#📱-design)
-* [APIS](#💻-apis)
-* [Modelagem de negócio](#💡-modelagem-de-negócio)
-* [Gravar tela e edição de vídeo](#🎥-gravar-tela-e-edicao-de-video)
-* [Dashboards](#📊-dashboard)
-* [Livros](#📚-livros)
+* [Ícones e imagens](#camera-ícones-e-imagens)
+* [Fontes](#abc-fontes)
+* [Cores](#art-cores)
+* [Gerenciamento de atividades](#file_folder-gerenciamento-de-atividades)
+* [Design](#iphone-design)
+* [APIS](#computer-apis)
+* [Modelagem de negócio](#bulb-modelagem-de-negócio)
+* [Gravar tela e edição de vídeo](#movie_camera-gravar-tela-e-edicao-de-video)
+* [Dashboards](#bar_chart-dashboard)
+* [Livros](#books-livros)
 
-## 📷 Ícones e imagens
+## :camera: Ícones e imagens
  
  - Unsplash: https://unsplash.com/
  - Undraw: https://undraw.co/
@@ -32,48 +32,48 @@
  - The noun project: https://thenounproject.com/
  - CleanPng: https://www.cleanpng.com/
 
-## 🅰️ Fontes
+## :abc: Fontes
  - Font Squirrel: https://www.fontsquirrel.com/
  - Google fontes: https://fonts.google.com/
 
-## 🎨 Cores
+## :art: Cores
  - Web Gradients: https://webgradients.com/
  - Pigment: https://pigment.shapefactory.co/
  - Color Hunt: https://colorhunt.co/
 
-## 📁 Gerenciamento de atividades
+## :file_folder: Gerenciamento de atividades
  - Trello: https://trello.com/pt-BR
  - Asana: https://asana.com/pt
  - Miro: https://miro.com/
  - Notion: https://notion.so/
 
 
-## 📱 Design
+## :iphone: Design
 - Figma: https://www.figma.com/
 - Adobe XD: https://www.adobe.com/br/products/xd.html 
 - Marvel App: https://marvelapp.com/
 - Invision App: https://www.invisionapp.com/
 - Framer: https://framer.com/projects/
 
-## 💻 APIS
+## :computer: APIS
 - Api List: https://apilist.fun/
 - Rapidapi: https://rapidapi.com/
 - Zapier: https://zapier.com/
 
-## 💡 Modelagem de negócio
+## :bulb: Modelagem de negócio
  - Sebrae Canvas: https://sebraecanvas.com/
 
-## 🎥 Gravar tela e edição de vídeo
+## :movie_camera: Gravar tela e edição de vídeo
  - Loom: https://www.loom.com/
  - Rawshorts: https://www.rawshorts.com/
  - Powtoon: https://www.powtoon.com/
  - Obs: https://obsproject.com/pt-br/download
 
-## 📊 Dashboards
+## :bar_chart: Dashboards
  - Google: https://datastudio.google.com/u/0/
  - Metabase: https://www.metabase.com/
 
-## 📚 Livros
+## :books: Livros
  - O Pitch (quase) Perfeito: http://s-inova.ucdb.br/wp-content/uploads/biblioteca/Livro+-+O+Pitch+Quase+Perfeito-%20Livro.pdf
 
 
