@@ -5,13 +5,13 @@
 
 ## :checkered_flag: Índice
 
-* [Ícones e imagens](#📷-icones-e-imagens)
+* [Ícones e imagens](#📷-ícones-e-imagens)
 * [Fontes](#🅰️-fontes)
 * [Cores](#🎨-cores)
 * [Gerenciamento de atividades](#📁-gerenciamento-de-atividades)
 * [Design](#📱-design)
 * [APIS](#💻-apis)
-* [Modelagem de negócio](#💡-modelagem-de-negocio)
+* [Modelagem de negócio](#💡-modelagem-de-negócio)
 * [Gravar tela e edição de vídeo](#🎥-gravar-tela-e-edicao-de-video)
 * [Dashboards](#📊-dashboard)
 * [Livros](#📚-livros)
@@ -37,10 +37,18 @@
 - Framer: https://framer.com/projects/
 
 ## 💻 APIS
+- Api List: https://apilist.fun/
+- Rapidapi: https://rapidapi.com/
+- Zapier: https://zapier.com/
 
 ## 💡 Modelagem de negócio
+ - Sebrae Canvas: https://sebraecanvas.com/
 
 ## 🎥 Gravar tela e edição de vídeo
+ - Loom: https://www.loom.com/
+ - Rawshorts: https://www.rawshorts.com/
+ - Powtoon: https://www.powtoon.com/
+ - Obs: https://obsproject.com/pt-br/download
 
 ## 📊 Dashboards
 
