@@ -23,8 +23,18 @@
 ## 🎨 Cores
 
 ## 📁 Gerenciamento de atividades
+ - Trello: https://trello.com/pt-BR
+ - Asana: https://asana.com/pt
+ - Miro: https://miro.com/
+ - Notion: https://notion.so/
+
 
 ## 📱 Design
+- Figma: https://www.figma.com/
+- Adobe XD: https://www.adobe.com/br/products/xd.html 
+- Marvel App: https://marvelapp.com/
+- Invision App: https://www.invisionapp.com/
+- Framer: https://framer.com/projects/
 
 ## 💻 APIS
 
