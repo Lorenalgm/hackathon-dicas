@@ -1,5 +1,7 @@
 <br />
     <h1 align="center">Dicas para hackathon</h1>
+    
+![](https://i.imgur.com/PO4XZy6.png)
 
  
 
@@ -12,7 +14,8 @@
 * [Design](#iphone-design)
 * [APIS](#computer-apis)
 * [Modelagem de negócio](#bulb-modelagem-de-negócio)
-* [Gravar tela e edição de vídeo](#movie_camera-gravar-tela-e-edicao-de-video)
+* [Gravar tela](#movie_camera-Gravar-tela)
+* [Edicao de video](#clapper-Edicao-de-video)
 * [Dashboards](#bar_chart-dashboard)
 * [Livros](#books-livros)
 
@@ -63,9 +66,12 @@
 ## :bulb: Modelagem de negócio
  - Sebrae Canvas: https://sebraecanvas.com/
 
-## :movie_camera: Gravar tela e edição de vídeo
+## :movie_camera: Gravar tela 
+
  - Loom: https://www.loom.com/
  - Rawshorts: https://www.rawshorts.com/
+ 
+## :clapper: Edicao de video
  - Powtoon: https://www.powtoon.com/
  - Obs: https://obsproject.com/pt-br/download
 
@@ -74,10 +80,26 @@
  - Metabase: https://www.metabase.com/
 
 ## :books: Livros
- - O Pitch (quase) Perfeito: http://s-inova.ucdb.br/wp-content/uploads/biblioteca/Livro+-+O+Pitch+Quase+Perfeito-%20Livro.pdf
+ - O Pitch (quase) Perfeito
 
 
 <br>
 <br>
 Criado com :heart: pelas embaixadoras do Mega Hack Women 2020
+
+ -  Mariana Costa:          https://www.linkedin.com/in/mrncstt/
+ -  Helena Simões:          https://www.linkedin.com/in/lenamiroux/
+ -  Ana Feula:              https://www.linkedin.com/in/ana-daniele-feula-842219140/
+ -  Thaina Monteiro:        https://www.linkedin.com/in/thaina-monteiro/
+ -  Melody Rodrigues:       https://www.linkedin.com/in/melodyrodrigues/
+ -  Amanda Barbosa:         https://www.linkedin.com/in/barbosaamanda/
+ -  Nayara Gomes:           https://www.linkedin.com/in/nayara-gomes-1569a8176
+ -  Gracyele Santos:        https://www.linkedin.com/in/gracyelesantos/
+ -  Tatiana Silva:          https://www.linkedin.com/in/tatianaasilva/
+ -  Flavia Firmino:         https://www.linkedin.com/in/flaviafirmino
+ -  Lorena Montes:          https://www.linkedin.com/in/lorenagmontes/
+ -  Victoria Godoy:         https://www.linkedin.com/in/victoriagodoy/
+ -  Tâmires Albuquerque:    https://www.linkedin.com/in/tgarocha
+ -  Ann Darios:             https://www.linkedin.com/in/ananndarios
+ -  Juliana Souza:          https://www.linkedin.com/in/juliana-souza-982bb9135
    
