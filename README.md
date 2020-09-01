@@ -1,8 +1,7 @@
 <br />
     <h1 align="center">Dicas para hackathon</h1>
     
-![](https://i.imgur.com/PO4XZy6.png)
-
+![](https://i.imgur.com/jUMM5Ia.png)
  
 
 ## :checkered_flag: Índice
