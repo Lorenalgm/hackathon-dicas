@@ -9,12 +9,12 @@
 * [Ícones e imagens](#camera-ícones-e-imagens)
 * [Fontes](#abc-fontes)
 * [Cores](#art-cores)
-* [Gerenciamento de atividades](#file_folder-gerenciamento-de-atividades)
+* [Gerenciamento de atividades e colaboração](#file_folder-gerenciamento-de-atividades-e-colaboração)
 * [Design](#iphone-design)
 * [APIS](#computer-apis)
 * [Modelagem de negócio](#bulb-modelagem-de-negócio)
 * [Gravar tela](#movie_camera-Gravar-tela)
-* [Edicao de video](#clapper-Edicao-de-video)
+* [Edicao de vídeo](#clapper-Edicao-de-video)
 * [Dashboards](#bar_chart-dashboard)
 * [Livros](#books-livros)
 
@@ -44,11 +44,13 @@
  - Pigment: https://pigment.shapefactory.co/
  - Color Hunt: https://colorhunt.co/
 
-## :file_folder: Gerenciamento de atividades
+## :file_folder: Gerenciamento de atividades e colaboração
  - Trello: https://trello.com/pt-BR
  - Asana: https://asana.com/pt
  - Miro: https://miro.com/
  - Notion: https://notion.so/
+ - Whimsical: https://whimsical.com/
+ - Google docs: https://docs.google.com/
 
 
 ## :iphone: Design
@@ -87,21 +89,20 @@
 <br>
 Criado com :heart: pelas embaixadoras do Mega Hack Women 2020
 
+ -  <a href="https://www.linkedin.com/in/barbosaamanda/">Amanda Barbosa</a>         
+ -  <a href="https://www.linkedin.com/in/ana-daniele-feula-842219140/">Ana Feula</a>           
+ -  <a href="https://www.linkedin.com/in/ananndarios/">Anna Darios</a>
+ -  <a href="https://www.linkedin.com/in/flaviafirmino/">Flavia Firmino</a>     
+ -  <a href="https://www.linkedin.com/in/gracyelesantos/">Gracyele Santos</a>       
+ -  <a href="https://www.linkedin.com/in/lenamiroux/">Helena Simões</a>          
+ -  <a href="https://www.linkedin.com/in/juliana-souza-982bb9135/">Juliana Souza</a>          
+ -  <a href="https://www.linkedin.com/in/lorenagmontes/">Lorena Montes</a>         
+ -  <a href="https://www.linkedin.com/in/mrncstt/">Mariana Costa</a>          
+ -  <a href="https://www.linkedin.com/in/melodyrodrigues/">Melody Rodrigues</a>       
+ -  <a href="https://www.linkedin.com/in/nayara-gomes-1569a8176/">Nayara Gomes</a>           
+ -  <a href="https://www.linkedin.com/in/tgarocha/">Tâmires Albuquerque</a>   
+ -  <a href="https://www.linkedin.com/in/tatianaasilva/">Tatiana Silva</a>        
+ -  <a href="https://www.linkedin.com/in/thaina-monteiro/">Thaina Monteiro</a>      
+ -  <a href="https://www.linkedin.com/in/victoriagodoy/">Victoria Godoy</a>       
 
-| Nome | LinkedIn |
-| --- | ----------- |
-| Mariana Costa | https://www.linkedin.com/in/mrncstt/ |
-| Helena Simões | https://www.linkedin.com/in/lenamiroux/ |
-| Ana Feula | https://www.linkedin.com/in/ana-daniele-feula-842219140/ |
-| Thaina Monteiro |  https://www.linkedin.com/in/thaina-monteiro/|
- |  Amanda Barbosa |      https://www.linkedin.com/in/barbosaamanda/ |
- |  Nayara Gomes|           https://www.linkedin.com/in/nayara-gomes-1569a8176 |
- | Gracyele Santos|        https://www.linkedin.com/in/gracyelesantos/ |
- |  Tatiana Silva|          https://www.linkedin.com/in/tatianaasilva/ |
- |  Flavia Firmino|         https://www.linkedin.com/in/flaviafirmino |
- |  Lorena Montes|          https://www.linkedin.com/in/lorenagmontes/ |
- |  Victoria Godoy|         https://www.linkedin.com/in/victoriagodoy/ |
- |  Tâmires Albuquerque|    https://www.linkedin.com/in/tgarocha |
- |  Anna Darios|            https://www.linkedin.com/in/ananndarios |
- |  Juliana Souza|          https://www.linkedin.com/in/juliana-souza-982bb9135  |
    
