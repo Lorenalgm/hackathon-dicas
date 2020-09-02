@@ -33,6 +33,7 @@
  - Nappy: https://www.nappy.co/
  - The noun project: https://thenounproject.com/
  - CleanPng: https://www.cleanpng.com/
+ - Black ilustrations: https://gumroad.com/l/UafDk
 
 ## :abc: Fontes
  - Font Squirrel: https://www.fontsquirrel.com/
