@@ -86,19 +86,21 @@
 <br>
 Criado com :heart: pelas embaixadoras do Mega Hack Women 2020
 
- -  Mariana Costa:          https://www.linkedin.com/in/mrncstt/
- -  Helena Simões:          https://www.linkedin.com/in/lenamiroux/
- -  Ana Feula:              https://www.linkedin.com/in/ana-daniele-feula-842219140/
- -  Thaina Monteiro:        https://www.linkedin.com/in/thaina-monteiro/
- -  Melody Rodrigues:       https://www.linkedin.com/in/melodyrodrigues/
- -  Amanda Barbosa:         https://www.linkedin.com/in/barbosaamanda/
- -  Nayara Gomes:           https://www.linkedin.com/in/nayara-gomes-1569a8176
- -  Gracyele Santos:        https://www.linkedin.com/in/gracyelesantos/
- -  Tatiana Silva:          https://www.linkedin.com/in/tatianaasilva/
- -  Flavia Firmino:         https://www.linkedin.com/in/flaviafirmino
- -  Lorena Montes:          https://www.linkedin.com/in/lorenagmontes/
- -  Victoria Godoy:         https://www.linkedin.com/in/victoriagodoy/
- -  Tâmires Albuquerque:    https://www.linkedin.com/in/tgarocha
- -  Ann Darios:             https://www.linkedin.com/in/ananndarios
- -  Juliana Souza:          https://www.linkedin.com/in/juliana-souza-982bb9135
+
+| Nome | LinkedIn |
+| --- | ----------- |
+| Mariana Costa | https://www.linkedin.com/in/mrncstt/ |
+| Helena Simões | https://www.linkedin.com/in/lenamiroux/ |
+| Ana Feula | https://www.linkedin.com/in/ana-daniele-feula-842219140/ |
+| Thaina Monteiro |  https://www.linkedin.com/in/thaina-monteiro/|
+ |  Amanda Barbosa |      https://www.linkedin.com/in/barbosaamanda/ |
+ |  Nayara Gomes|           https://www.linkedin.com/in/nayara-gomes-1569a8176 |
+ | Gracyele Santos|        https://www.linkedin.com/in/gracyelesantos/ |
+ |  Tatiana Silva|          https://www.linkedin.com/in/tatianaasilva/ |
+ |  Flavia Firmino|         https://www.linkedin.com/in/flaviafirmino |
+ |  Lorena Montes|          https://www.linkedin.com/in/lorenagmontes/ |
+ |  Victoria Godoy|         https://www.linkedin.com/in/victoriagodoy/ |
+ |  Tâmires Albuquerque|    https://www.linkedin.com/in/tgarocha |
+ |  Anna Darios|            https://www.linkedin.com/in/ananndarios |
+ |  Juliana Souza|          https://www.linkedin.com/in/juliana-souza-982bb9135  |
    
