@@ -34,6 +34,7 @@
  - The noun project: https://thenounproject.com/
  - CleanPng: https://www.cleanpng.com/
  - Black ilustrations: https://gumroad.com/l/UafDk
+ - Lottieflow: https://www.lottieflow.com/
 
 ## :abc: Fontes
  - Font Squirrel: https://www.fontsquirrel.com/
@@ -61,6 +62,7 @@
 - Framer: https://framer.com/projects/
 
 ## :computer: APIS
+- Public APIs: https://github.com/public-apis/public-apis
 - Api List: https://apilist.fun/
 - Rapidapi: https://rapidapi.com/
 - Zapier: https://zapier.com/
@@ -69,7 +71,6 @@
  - Sebrae Canvas: https://sebraecanvas.com/
 
 ## :movie_camera: Gravar tela 
-
  - Loom: https://www.loom.com/
  - Rawshorts: https://www.rawshorts.com/
  
