@@ -39,6 +39,13 @@
 ## :abc: Fontes
  - Font Squirrel: https://www.fontsquirrel.com/
  - Google fontes: https://fonts.google.com/
+ - [Beautiful Web Type](https://beautifulwebtype.com) - A showcase of the best typefaces from the Google web fonts directory.
+ - [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
+ - [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
+ - [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
+ - [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
+ - [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
+ - [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
 
 ## :art: Cores
  - Web Gradients: https://webgradients.com/
@@ -103,7 +110,8 @@ Criado com :heart: pelas embaixadoras do Mega Hack Women 2020
  -  <a href="https://www.linkedin.com/in/nayara-gomes-1569a8176/">Nayara Gomes</a>           
  -  <a href="https://www.linkedin.com/in/tgarocha/">Tâmires Albuquerque</a>   
  -  <a href="https://www.linkedin.com/in/tatianaasilva/">Tatiana Silva</a>        
- -  <a href="https://www.linkedin.com/in/thaina-monteiro/">Thaina Monteiro</a>      
+ -  <a href="https://www.linkedin.com/in/thaina-monteiro/">Thaina Monteiro</a>
+ -  <a href="https://www.linkedin.com/in/thayanacmamore/">Thayana Mamoré</a>
  -  <a href="https://www.linkedin.com/in/victoriagodoy/">Victoria Godoy</a>       
 
    
