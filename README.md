@@ -59,14 +59,28 @@
  - Notion: https://notion.so/
  - Whimsical: https://whimsical.com/
  - Google docs: https://docs.google.com/
+ - Pomodoro	http://pomodorotechnique.com/
+ - Kanban: https://www.meuscrum.com/pt
+ - Scrum: https://kanbantool.com/pt/quadro-scrum-online
+ - Slack:	https://slack.com/
 
 
-## :iphone: Design
+## :iphone: Design e prototipação
 - Figma: https://www.figma.com/
 - Adobe XD: https://www.adobe.com/br/products/xd.html 
 - Marvel App: https://marvelapp.com/
 - Invision App: https://www.invisionapp.com/
 - Framer: https://framer.com/projects/
+- SitePX:	http://www.sitepx.com/
+- Pidoco:	https://pidoco.com/en
+- Mockflow:	https://www.mockflow.com/
+- Knownly:	https://www.knownly.net/
+- Unbounce:	http://unbounce.com/
+- Hotgloo:	http://www.hotgloo.com/
+- POP app:	https://popapp.in/
+- Invision:	http://www.invisionapp.com/
+- Balsamiq:	https://balsamiq.com/
+- AngelList:	https://angel.co/
 
 ## :computer: APIS
 - Public APIs: https://github.com/public-apis/public-apis
@@ -76,6 +90,11 @@
 
 ## :bulb: Modelagem de negócio
  - Sebrae Canvas: https://sebraecanvas.com/
+ - Lean Canvas	https://goo.gl/3kL7si
+ - Value Proposition Canvas	https://goo.gl/uGxHoX
+ - Biz Model Canvas:	https://goo.gl/MsURRf
+ - Experiment Board:	https://goo.gl/Vr8Ysr
+ - Empathy Board:	https://goo.gl/01Hvq4
 
 ## :movie_camera: Gravar tela 
  - Loom: https://www.loom.com/
