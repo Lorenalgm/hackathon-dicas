@@ -18,6 +18,8 @@
 * [Dashboards](#bar_chart-dashboard)
 * [Livros](#books-livros)
 
+Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hackatons ;)
+
 ## :camera: Ícones e imagens
  
  - Unsplash: https://unsplash.com/
@@ -81,6 +83,7 @@
 - Invision:	http://www.invisionapp.com/
 - Balsamiq:	https://balsamiq.com/
 - AngelList:	https://angel.co/
+- Spark: https://spark.adobe.com/pt-BR/about
 
 ## :computer: APIS
 - Public APIs: https://github.com/public-apis/public-apis
@@ -95,6 +98,9 @@
  - Biz Model Canvas:	https://goo.gl/MsURRf
  - Experiment Board:	https://goo.gl/Vr8Ysr
  - Empathy Board:	https://goo.gl/01Hvq4
+ - Crunchbase: https://www.crunchbase.com/
+ - ProductHunt: https://www.producthunt.com/
+
 
 ## :movie_camera: Gravar tela 
  - Loom: https://www.loom.com/
