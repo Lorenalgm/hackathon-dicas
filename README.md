@@ -18,7 +18,7 @@
 * [Dashboards](#bar_chart-dashboard)
 * [Livros](#books-livros)
 
-Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hackatons ;)
+Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hackathons ;)
 
 ## :camera: Ícones e imagens
  

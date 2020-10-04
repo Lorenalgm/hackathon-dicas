@@ -1,5 +1,5 @@
 <br />
-    <h1 align="center">Fique por dentro dos próximos hackatons ;)</h1>
+    <h1 align="center">Fique por dentro dos próximos hackathons ;)</h1>
 ## :checkered_flag: Índice
 
 * [2020](#2020)
