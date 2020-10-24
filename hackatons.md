@@ -1,6 +1,6 @@
 <br />
     <h1 align="center">Fique por dentro dos próximos hackathons ;)</h1>
-## Índice
+
 
 * [2020](#2020)
 
