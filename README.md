@@ -4,6 +4,10 @@
 ![](https://i.imgur.com/jUMM5Ia.png)
  
 
+
+[Fique por dentro dos próximos eventos](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md)
+
+
 ## :checkered_flag: Índice
 
 * [Ícones e imagens](#camera-ícones-e-imagens)
