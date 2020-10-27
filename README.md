@@ -109,10 +109,13 @@ Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hacka
 ## :movie_camera: Gravar tela 
  - Loom: https://www.loom.com/
  - Rawshorts: https://www.rawshorts.com/
+ - Obs: https://obsproject.com/pt-br/download
  
 ## :clapper: Edicao de video
  - Powtoon: https://www.powtoon.com/
- - Obs: https://obsproject.com/pt-br/download
+ - Adobe After Effects: https://www.adobe.com/br/products/aftereffects.html
+ - Adobe Premiere: www.adobe.com/br/products/premiere.html
+ - Sony Vegas Pro: https://www.vegascreativesoftware.com/br/vegas-pro/
 
 ## :bar_chart: Dashboards
  - Google: https://datastudio.google.com/u/0/
