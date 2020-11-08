@@ -52,6 +52,7 @@ Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hacka
  - [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
  - [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
  - [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
+ - Font Meme: https://fontmeme.com/
 
 ## :art: Cores
  - Web Gradients: https://webgradients.com/
@@ -69,6 +70,7 @@ Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hacka
  - Kanban: https://www.meuscrum.com/pt
  - Scrum: https://kanbantool.com/pt/quadro-scrum-online
  - Slack:	https://slack.com/
+ - AWW App: https://awwapp.com/
 
 
 ## :iphone: Design e prototipação
@@ -94,6 +96,8 @@ Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hacka
 - Api List: https://apilist.fun/
 - Rapidapi: https://rapidapi.com/
 - Zapier: https://zapier.com/
+- mockAPI: https://mockapi.io/
+- JSON Server: https://github.com/typicode/json-server
 
 ## :bulb: Modelagem de negócio
  - Sebrae Canvas: https://sebraecanvas.com/
@@ -110,6 +114,7 @@ Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hacka
  - Loom: https://www.loom.com/
  - Rawshorts: https://www.rawshorts.com/
  - Obs: https://obsproject.com/pt-br/download
+ - Peek: https://github.com/phw/peek
  
 ## :clapper: Edicao de video
  - Powtoon: https://www.powtoon.com/
