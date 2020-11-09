@@ -26,25 +26,25 @@ Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hacka
 
 ## :camera: Ícones e imagens
  
- - Unsplash: https://unsplash.com/
- - Undraw: https://undraw.co/
- - Freepik: https://br.freepik.com/
- - Icons8: https://icons8.com.br/
- - Many Pixels: https://manypixels.co
- - Mixkit: https://mixkit.co/
- - Flaticon: https://flaticon.com
- - Pixabay: https://pixabay.com/pt/
- - Pexels: https://www.pexels.com/pt-br/
- - Gratisography: https://gratisography.com/
- - Nappy: https://www.nappy.co/
- - The noun project: https://thenounproject.com/
- - CleanPng: https://www.cleanpng.com/
- - Black ilustrations: https://gumroad.com/l/UafDk
- - Lottieflow: https://www.lottieflow.com/
+ - [Unsplash](https://unsplash.com/)
+ - [Undraw](https://undraw.co/)
+ - [Freepik](https://br.freepik.com/)
+ - [Icons8](https://icons8.com.br/)
+ - [Many Pixels](https://manypixels.co)
+ - [Mixkit](https://mixkit.co/)
+ - [Flaticon](https://flaticon.com)
+ - [Pixabay](https://pixabay.com/pt/)
+ - [Pexels](https://www.pexels.com/pt-br/)
+ - [Gratisography](https://gratisography.com/)
+ - [Nappy](https://www.nappy.co/)
+ - [The noun project](https://thenounproject.com/)
+ - [CleanPng](https://www.cleanpng.com/)
+ - [Black ilustrations](https://gumroad.com/l/UafDk)
+ - [Lottieflow](https://www.lottieflow.com/)
 
 ## :abc: Fontes
- - Font Squirrel: https://www.fontsquirrel.com/
- - Google fontes: https://fonts.google.com/
+ - [Font Squirrel](https://www.fontsquirrel.com/)
+ - [Google fontes](https://fonts.google.com/)
  - [Beautiful Web Type](https://beautifulwebtype.com) - A showcase of the best typefaces from the Google web fonts directory.
  - [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
  - [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
@@ -52,44 +52,44 @@ Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hacka
  - [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
  - [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
  - [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
- - Font Meme: https://fontmeme.com/
+ - [Font Meme](https://fontmeme.com/)
 
 ## :art: Cores
- - Web Gradients: https://webgradients.com/
- - Pigment: https://pigment.shapefactory.co/
- - Color Hunt: https://colorhunt.co/
+ - [Web Gradients](https://webgradients.com/)
+ - [Pigment](https://pigment.shapefactory.co/)
+ - [Color Hunt](https://colorhunt.co/)
 
 ## :file_folder: Gerenciamento de atividades e colaboração
- - Trello: https://trello.com/pt-BR
- - Asana: https://asana.com/pt
- - Miro: https://miro.com/
- - Notion: https://notion.so/
- - Whimsical: https://whimsical.com/
- - Google docs: https://docs.google.com/
- - Pomodoro	http://pomodorotechnique.com/
- - Kanban: https://www.meuscrum.com/pt
- - Scrum: https://kanbantool.com/pt/quadro-scrum-online
- - Slack:	https://slack.com/
- - AWW App: https://awwapp.com/
+ - [Trello](https://trello.com/pt-BR)
+ - [Asana](https://asana.com/pt)
+ - [Miro](https://miro.com/)
+ - [Notion](https://notion.so/)
+ - [Whimsical](https://whimsical.com/)
+ - [Google docs](https://docs.google.com/)
+ - [Pomodoro](http://pomodorotechnique.com/)
+ - [Kanban](https://www.meuscrum.com/pt)
+ - [Scrum](https://kanbantool.com/pt/quadro-scrum-online)
+ - [Slack](https://slack.com/)
+ - [AWW App](https://awwapp.com/)
 
 
 ## :iphone: Design e prototipação
-- Figma: https://www.figma.com/
-- Adobe XD: https://www.adobe.com/br/products/xd.html 
-- Marvel App: https://marvelapp.com/
-- Invision App: https://www.invisionapp.com/
-- Framer: https://framer.com/projects/
-- SitePX:	http://www.sitepx.com/
-- Pidoco:	https://pidoco.com/en
-- Mockflow:	https://www.mockflow.com/
-- Knownly:	https://www.knownly.net/
-- Unbounce:	http://unbounce.com/
-- Hotgloo:	http://www.hotgloo.com/
-- POP app:	https://popapp.in/
-- Invision:	http://www.invisionapp.com/
-- Balsamiq:	https://balsamiq.com/
-- AngelList:	https://angel.co/
-- Spark: https://spark.adobe.com/pt-BR/about
+- [Figma](https://www.figma.com/)
+- [Adobe XD](https://www.adobe.com/br/products/xd.html) 
+- [Marvel App](https://marvelapp.com/)
+- [Invision App](https://www.invisionapp.com/)
+- [Framer](https://framer.com/projects/)
+- [SitePX](http://www.sitepx.com/)
+- [Pidoco](https://pidoco.com/en)
+- [Mockflow](https://www.mockflow.com/)
+- [Knownly](https://www.knownly.net/)
+- [Unbounce](http://unbounce.com/)
+- [Hotgloo](http://www.hotgloo.com/)
+- [POP app](https://popapp.in/)
+- [Invision](http://www.invisionapp.com/)
+- [Balsamiq](https://balsamiq.com/)
+- [AngelList](https://angel.co/)
+- [Spark](https://spark.adobe.com/pt-BR/about)
 
 ## :computer: APIS
 - Public APIs: https://github.com/public-apis/public-apis
