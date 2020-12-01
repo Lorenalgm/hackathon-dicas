@@ -92,39 +92,39 @@ Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hacka
 - [Spark](https://spark.adobe.com/pt-BR/about)
 
 ## :computer: APIS
-- Public APIs: https://github.com/public-apis/public-apis
-- Api List: https://apilist.fun/
-- Rapidapi: https://rapidapi.com/
-- Zapier: https://zapier.com/
-- mockAPI: https://mockapi.io/
-- JSON Server: https://github.com/typicode/json-server
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [Api List](https://apilist.fun/)
+- [Rapidapi](https://rapidapi.com/)
+- [Zapier](https://zapier.com/)
+- [mockAPI](https://mockapi.io/)
+- [JSON Server](https://github.com/typicode/json-server)
 
 ## :bulb: Modelagem de negócio
- - Sebrae Canvas: https://sebraecanvas.com/
- - Lean Canvas	https://goo.gl/3kL7si
- - Value Proposition Canvas	https://goo.gl/uGxHoX
- - Biz Model Canvas:	https://goo.gl/MsURRf
- - Experiment Board:	https://goo.gl/Vr8Ysr
- - Empathy Board:	https://goo.gl/01Hvq4
- - Crunchbase: https://www.crunchbase.com/
- - ProductHunt: https://www.producthunt.com/
+ - [Sebrae Canvas](https://sebraecanvas.com/)
+ - [Lean Canvas](https://goo.gl/3kL7si)
+ - [Value Proposition Canvas](https://goo.gl/uGxHoX)
+ - [Biz Model Canvas](https://goo.gl/MsURRf)
+ - [Experiment Board](https://goo.gl/Vr8Ysr)
+ - [Empathy Board](https://goo.gl/01Hvq4)
+ - [Crunchbase](https://www.crunchbase.com/)
+ - [ProductHunt](https://www.producthunt.com/)
 
 
 ## :movie_camera: Gravar tela 
- - Loom: https://www.loom.com/
- - Rawshorts: https://www.rawshorts.com/
- - Obs: https://obsproject.com/pt-br/download
- - Peek: https://github.com/phw/peek
+ - [Loom](https://www.loom.com/)
+ - [Rawshorts](https://www.rawshorts.com/)
+ - [Obs](https://obsproject.com/pt-br/download)
+ - [Peek](https://github.com/phw/peek)
  
 ## :clapper: Edicao de video
- - Powtoon: https://www.powtoon.com/
- - Adobe After Effects: https://www.adobe.com/br/products/aftereffects.html
- - Adobe Premiere: www.adobe.com/br/products/premiere.html
- - Sony Vegas Pro: https://www.vegascreativesoftware.com/br/vegas-pro/
+ - [Powtoon](https://www.powtoon.com/)
+ - [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
+ - [Adobe Premiere](www.adobe.com/br/products/premiere.html)
+ - [Sony Vegas Pro](https://www.vegascreativesoftware.com/br/vegas-pro/)
 
 ## :bar_chart: Dashboards
- - Google: https://datastudio.google.com/u/0/
- - Metabase: https://www.metabase.com/
+ - [Google Data Studio](https://datastudio.google.com/u/0/)
+ - [Metabase](https://www.metabase.com/)
 
 ## :books: Livros
  - O Pitch (quase) Perfeito
