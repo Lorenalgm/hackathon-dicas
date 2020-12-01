@@ -1,5 +1,5 @@
 <br />
-    <h1 align="center">Fique por dentro dos próximos hackathons ;)</h1>
+    <h1 align="center">Fique por dentro dos próximos hackathons </h1>
 
 * [2021](#2021)
 ## :rocket: Janeiro
