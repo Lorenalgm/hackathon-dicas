@@ -4,6 +4,12 @@
 
 * [2020](#2020)
 
+## :rocket: Dezembro
+- Polinize:http://hackathon.polinize.com/
+- Open banking: https://www.openbankinghacka.com/
+- Game Jam: https://www.feirapretagamejam.com.br/
+- A cervejaria do futuro: http://www.hackacervejariadofuturo.com.br/
+
 
 ## :rocket: Novembro
 - Agritech Hackathon https://agritechhackathon.ca/ 
