@@ -9,13 +9,13 @@
 - Open banking: https://www.openbankinghacka.com/
 - Game Jam: https://www.feirapretagamejam.com.br/
 - A cervejaria do futuro: http://www.hackacervejariadofuturo.com.br/
-
+------
 
 ## :rocket: Novembro
 - Agritech Hackathon https://agritechhackathon.ca/ 
 
 
-------
+
 ## :rocket: Outubro
 - Space Apps Challenge 2020: https://www.spaceappschallenge.org/
 - HACKNIT 2020: http://hacknit.niteroi.rj.gov.br
@@ -23,7 +23,7 @@
 - Hacking.RIO20: http://www.hackingrio.com/
 - Hacktudo: https://www.hacktudo.com.br/
 
-------
+
 
 ## :rocket: Setembro
 - Hackathon Unesp:  https://www.hackathonunesp.com/
