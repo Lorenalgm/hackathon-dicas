@@ -11,6 +11,9 @@
 - Open banking: https://www.openbankinghacka.com/
 - Game Jam: https://www.feirapretagamejam.com.br/
 - A cervejaria do futuro: http://www.hackacervejariadofuturo.com.br/
+- Hackathon paySmart 2020: https://www.paysmart.com.br/eventos/hackathon2020/
+- Social Hack: https://socialhack.com.br/
+- INOVATHON SÃO PAULO 2020: https://www.sympla.com.br/inovathon-sao-paulo-2020---cultura-e-turismo__1061622
 ------
 
 ## :rocket: Novembro
