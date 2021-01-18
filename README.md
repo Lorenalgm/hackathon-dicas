@@ -40,6 +40,7 @@
  - [CleanPng](https://www.cleanpng.com/)
  - [Black ilustrations](https://gumroad.com/l/UafDk)
  - [Lottieflow](https://www.lottieflow.com/)
+ - [Ape Tools - Gerador de icons e splashscreens](https://apetools.webprofusion.com/#/)
 
 ## :abc: Fontes
  - [Font Squirrel](https://www.fontsquirrel.com/)
@@ -89,6 +90,7 @@
 - [Balsamiq](https://balsamiq.com/)
 - [AngelList](https://angel.co/)
 - [Spark](https://spark.adobe.com/pt-BR/about)
+- [QuantUX](https://www.quant-ux.com/#/)
 
 ## :computer: APIS
 - [Public APIs](https://github.com/public-apis/public-apis)
@@ -124,6 +126,11 @@
 ## :bar_chart: Dashboards
  - [Google Data Studio](https://datastudio.google.com/u/0/)
  - [Metabase](https://www.metabase.com/)
+ 
+ 
+## :woman_technologist: Devs
+ - [4Devs - Ferramentas Online](https://www.4devs.com.br/)
+ - [Regex101 - Depurador de expressão regular](https://regex101.com/)
 
 ## :books: Livros
  - O Pitch (quase) Perfeito
