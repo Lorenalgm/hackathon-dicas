@@ -5,8 +5,8 @@
  
 
 
-## [Fique por dentro dos próximos eventos](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md)
-
+## [Fique por dentro dos próximos hackathons](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md)
+- 2021 - Janeiro
 
 ## :checkered_flag: Índice
 
