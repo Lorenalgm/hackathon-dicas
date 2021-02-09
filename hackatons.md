@@ -6,6 +6,9 @@
 - CCR: http://www.grupoccr.com.br/hackathonccr/
 - Provi Hack: https://marketing.provi.com.br/provi-hack-woman
 
+## :rocket: Fevereiro
+- HackTudo: https://www.hacktudo.com.br/
+
 # [2020](#2020)
 ## :rocket: Dezembro
 - Polinize:http://hackathon.polinize.com/
