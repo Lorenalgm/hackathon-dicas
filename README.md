@@ -1,7 +1,7 @@
 <br />
     <h1 align="center">Dicas para hackathon</h1>
     
-![](https://i.imgur.com/ghFCGg1.jpeg)
+![](https://i.imgur.com/x4vdxsJ.jpeg)
  
 
 
