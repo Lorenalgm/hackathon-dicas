@@ -1,7 +1,7 @@
 <br />
     <h1 align="center">Dicas para hackathon</h1>
     
-![](https://i.imgur.com/jUMM5Ia.png)
+![](https://i.imgur.com/atAEeHZ.jpg)
  
 
 
@@ -159,3 +159,4 @@ Criado com :heart: pelas embaixadoras do Mega Hack Women 2020
  -  <a href="https://www.linkedin.com/in/victoriagodoy/">Victoria Godoy</a>       
 
    
+- Licença da imagem [FreePik](https://www.freepik.com/free-vector/hackathon-isometric-landing-software-development_9292828.htm#page=1&query=hackathon&position=12)
