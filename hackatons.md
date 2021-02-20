@@ -2,12 +2,19 @@
     <h1 align="center">Fique por dentro dos próximos hackathons </h1>
 
 # [2021](#2021)
+
+## :rocket: Março
+- 
+
+## :rocket: Fevereiro
+- HackTudo: https://www.hacktudo.com.br/
+- Hackathon das Manas: https://www.sympla.com.br/hackathon-das-manas---1-edicao-goias__1117630
+
 ## :rocket: Janeiro
 - CCR: http://www.grupoccr.com.br/hackathonccr/
 - Provi Hack: https://marketing.provi.com.br/provi-hack-woman
 
-## :rocket: Fevereiro
-- HackTudo: https://www.hacktudo.com.br/
+
 
 # [2020](#2020)
 ## :rocket: Dezembro
