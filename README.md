@@ -6,9 +6,8 @@
 
 
 ## Fique por dentro dos próximos hackathons
-- 2020
-- 2021 - [Janeiro](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md)
-- 2021 - [Fevereiro](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md)
+
+- [2021](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md)
 
 ## :checkered_flag: Índice
 
