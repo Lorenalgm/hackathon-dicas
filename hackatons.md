@@ -3,8 +3,14 @@
 
 # [2021](#2021)
 
+## :rocket: Abril
+
+- INPI: https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-lanca-edital-para-hackathon-que-sera-realizado-de-5-a-12-de-abril
+
 ## :rocket: Março
-- 
+- Hackaton Smiles: https://www.hackathonsmiles.com.br/
+- Accenture Maraton: https://www.accenture.com/br-pt/careers/event/maraton-tecnologia-que-rompe-barreiras
+- Hackathon das Manas - 1ª Edição: Goiás: https://www.sympla.com.br/hackathon-das-manas---1-edicao-goias__1117630
 
 ## :rocket: Fevereiro
 - HackTudo: https://www.hacktudo.com.br/
