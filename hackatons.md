@@ -6,6 +6,7 @@
 ## :rocket: Abril
 
 - INPI: https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-lanca-edital-para-hackathon-que-sera-realizado-de-5-a-12-de-abril
+- Brasa Hacks: https://gobrasa.us.hivebrite.com/events/7641
 
 ## :rocket: Março
 - Hackaton Smiles: https://www.hackathonsmiles.com.br/
