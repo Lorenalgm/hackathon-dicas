@@ -20,6 +20,7 @@
 * [Modelagem de negócio](#bulb-modelagem-de-negócio)
 * [Gravar tela](#movie_camera-Gravar-tela)
 * [Edicao de vídeo](#clapper-Edicao-de-video)
+* [Animação](#clapper-animacao)
 * [Dashboards](#bar_chart-dashboard)
 * [Livros](#books-livros)
 
@@ -119,10 +120,14 @@
  - [Peek](https://github.com/phw/peek)
  
 ## :clapper: Edicao de video
- - [Powtoon](https://www.powtoon.com/)
  - [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
  - [Adobe Premiere](www.adobe.com/br/products/premiere.html)
  - [Sony Vegas Pro](https://www.vegascreativesoftware.com/br/vegas-pro/)
+ - [DaVinci resolve](https://www.blackmagicdesign.com/br/products/davinciresolve/)
+
+## :pencil2: Animação
+ - [Powtoon](https://www.powtoon.com/)
+
 
 ## :bar_chart: Dashboards
  - [Google Data Studio](https://datastudio.google.com/u/0/)
