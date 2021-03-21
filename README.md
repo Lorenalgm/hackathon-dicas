@@ -24,7 +24,6 @@
 * [Dashboards](#bar_chart-dashboard)
 * [Livros](#books-livros)
 
-
 ## :camera: Ícones e imagens
  
  - [Unsplash](https://unsplash.com/)
@@ -60,6 +59,7 @@
  - [Web Gradients](https://webgradients.com/)
  - [Pigment](https://pigment.shapefactory.co/)
  - [Color Hunt](https://colorhunt.co/)
+ - [Flat ui colors](https://flatuicolors.com/)
 
 ## :file_folder: Gerenciamento de atividades e colaboração
  - [Trello](https://trello.com/pt-BR)
@@ -73,6 +73,7 @@
  - [Scrum](https://kanbantool.com/pt/quadro-scrum-online)
  - [Slack](https://slack.com/)
  - [AWW App](https://awwapp.com/)
+ - [Linear](https://linear.app/)
 
 
 ## :iphone: Design e prototipação
@@ -93,6 +94,7 @@
 - [AngelList](https://angel.co/)
 - [Spark](https://spark.adobe.com/pt-BR/about)
 - [QuantUX](https://www.quant-ux.com/#/)
+- [Storybook](https://storybook.js.org/)
 
 ## :computer: APIS
 - [Public APIs](https://github.com/public-apis/public-apis)
