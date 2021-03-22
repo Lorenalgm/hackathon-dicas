@@ -60,6 +60,7 @@
  - [Pigment](https://pigment.shapefactory.co/)
  - [Color Hunt](https://colorhunt.co/)
  - [Flat ui colors](https://flatuicolors.com/)
+ - [Coolors](https://coolors.co/)
 
 ## :file_folder: Gerenciamento de atividades e colaboração
  - [Trello](https://trello.com/pt-BR)
@@ -74,6 +75,7 @@
  - [Slack](https://slack.com/)
  - [AWW App](https://awwapp.com/)
  - [Linear](https://linear.app/)
+ - [Jira](https://www.atlassian.com/software/jira)
 
 
 ## :iphone: Design e prototipação
