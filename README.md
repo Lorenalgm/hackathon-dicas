@@ -141,6 +141,9 @@
 ## :woman_technologist: Devs
  - [4Devs - Ferramentas Online](https://www.4devs.com.br/)
  - [Regex101 - Depurador de expressão regular](https://regex101.com/)
+ - [Visual Studio Code](https://code.visualstudio.com/)
+ - [Insomnia](https://insomnia.rest/download)
+ - [Beekeeper Studio](https://www.beekeeperstudio.io/)  
 
 ## :books: Livros
  - O Pitch (quase) Perfeito
