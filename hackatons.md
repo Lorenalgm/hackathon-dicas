@@ -8,6 +8,7 @@
 - INPI: https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-lanca-edital-para-hackathon-que-sera-realizado-de-5-a-12-de-abril
 - Brasa Hacks: https://gobrasa.us.hivebrite.com/events/7641
 - Hackathon Serra do Mar: https://msha.ke/hackaserradomar/
+- Hack Grrrl: https://www.hackgrrrl.com/
 
 ## :rocket: Março
 - Hackaton Smiles: https://www.hackathonsmiles.com.br/
