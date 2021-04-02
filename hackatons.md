@@ -9,6 +9,7 @@
 - Brasa Hacks: https://gobrasa.us.hivebrite.com/events/7641
 - Hackathon Serra do Mar: https://msha.ke/hackaserradomar/
 - Hack Grrrl: https://www.hackgrrrl.com/
+- Hackathon Virtual Experience: https://www.sympla.com.br/hackathon-vitual-experience__1156824
 
 ## :rocket: Março
 - Hackaton Smiles: https://www.hackathonsmiles.com.br/
