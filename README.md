@@ -12,20 +12,19 @@
 ## :checkered_flag: Índice
 
 - [Fique por dentro dos próximos hackathons](#fique-por-dentro-dos-próximos-hackathons)
-- [:checkered_flag: Índice](#checkered_flag-índice)
-- [:camera: Ícones e imagens](#camera-ícones-e-imagens)
-- [:abc: Fontes](#abc-fontes)
-- [:art: Cores](#art-cores)
-- [:file_folder: Gerenciamento de atividades e colaboração](#file_folder-gerenciamento-de-atividades-e-colaboração)
-- [:iphone: Design e prototipação](#iphone-design-e-prototipação)
-- [:computer: APIS](#computer-apis)
-- [:bulb: Modelagem de negócio](#bulb-modelagem-de-negócio)
-- [:movie_camera: Gravar tela](#movie_camera-gravar-tela)
-- [:clapper: Edicao de video](#clapper-edicao-de-video)
-- [:pencil2: Animação](#pencil2-animação)
-- [:bar_chart: Dashboards](#bar_chart-dashboards)
-- [:woman_technologist: Devs](#woman_technologist-devs)
-- [:books: Livros](#books-livros)
+- [Ícones e imagens](#camera-ícones-e-imagens)
+- [Fontes](#abc-fontes)
+- [Cores](#art-cores)
+- [Gerenciamento de atividades e colaboração](#file_folder-gerenciamento-de-atividades-e-colaboração)
+- [Design e prototipação](#iphone-design-e-prototipação)
+- [APIS](#computer-apis)
+- [Modelagem de negócio](#bulb-modelagem-de-negócio)
+- [Gravar tela](#movie_camera-gravar-tela)
+- [Edicao de video](#clapper-edicao-de-video)
+- [Animação](#pencil2-animação)
+- [Dashboards](#bar_chart-dashboards)
+- [Devs](#woman_technologist-devs)
+- [Livros](#books-livros)
 
 ## :camera: Ícones e imagens
  
