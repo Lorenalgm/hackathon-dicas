@@ -5,9 +5,9 @@
  
 
 
-## Fique por dentro dos próximos hackathons
+# Fique por dentro dos próximos hackathons
 
-[Clique aqui](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md) para saber dos próximos eventos
+## [Clique aqui](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md) para saber dos próximos hackas
 
 ## :checkered_flag: Índice
 
