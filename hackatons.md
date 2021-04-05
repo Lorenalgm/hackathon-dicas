@@ -4,12 +4,11 @@
 # [2021](#2021)
 
 ## :rocket: Abril
-
-- INPI: https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-lanca-edital-para-hackathon-que-sera-realizado-de-5-a-12-de-abril
-- Brasa Hacks: https://gobrasa.us.hivebrite.com/events/7641
-- Hackathon Serra do Mar: https://msha.ke/hackaserradomar/
-- Hack Grrrl: https://www.hackgrrrl.com/
-- Hackathon Virtual Experience: https://www.sympla.com.br/hackathon-vitual-experience__1156824
+- [Brasa Hacks | do dia 1 a 4](https://gobrasa.us.hivebrite.com/events/7641)
+- [INPI | do dia 5 a 12](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-lanca-edital-para-hackathon-que-sera-realizado-de-5-a-12-de-abril)
+- [Hackathon Serra do Mar](https://msha.ke/hackaserradomar/)
+- [Hack Grrrl](https://www.hackgrrrl.com/)
+- [Hackathon Virtual Experience](https://www.sympla.com.br/hackathon-vitual-experience__1156824)
 
 ## :rocket: Março
 - Hackaton Smiles: https://www.hackathonsmiles.com.br/
