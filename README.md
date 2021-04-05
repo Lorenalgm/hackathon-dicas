@@ -147,28 +147,9 @@
 
 ## :books: Livros
  - O Pitch (quase) Perfeito
+ - Hackathons Unboxed: A Field Guide to Ideating, Leading and Winning
 
 
-<br>
-<br>
-Criado com :heart: pelas embaixadoras do Mega Hack Women 2020
-
- -  <a href="https://www.linkedin.com/in/barbosaamanda/">Amanda Barbosa</a>         
- -  <a href="https://www.linkedin.com/in/ana-daniele-feula-842219140/">Ana Feula</a>           
- -  <a href="https://www.linkedin.com/in/ananndarios/">Anna Darios</a>
- -  <a href="https://www.linkedin.com/in/flaviafirmino/">Flavia Firmino</a>     
- -  <a href="https://www.linkedin.com/in/gracyelesantos/">Gracyele Santos</a>       
- -  <a href="https://www.linkedin.com/in/lenamiroux/">Helena Simões</a>          
- -  <a href="https://www.linkedin.com/in/juliana-souza-982bb9135/">Juliana Souza</a>          
- -  <a href="https://www.linkedin.com/in/lorenagmontes/">Lorena Montes</a>         
- -  <a href="https://www.linkedin.com/in/mrncstt/">Mariana Costa</a>          
- -  <a href="https://www.linkedin.com/in/melodyrodrigues/">Melody Rodrigues</a>       
- -  <a href="https://www.linkedin.com/in/nayara-gomes-1569a8176/">Nayara Gomes</a>           
- -  <a href="https://www.linkedin.com/in/tgarocha/">Tâmires Albuquerque</a>   
- -  <a href="https://www.linkedin.com/in/tatianaasilva/">Tatiana Silva</a>        
- -  <a href="https://www.linkedin.com/in/thaina-monteiro/">Thaina Monteiro</a>
- -  <a href="https://www.linkedin.com/in/thayanacmamore/">Thayana Mamoré</a>
- -  <a href="https://www.linkedin.com/in/victoriagodoy/">Victoria Godoy</a>       
 
    
        - Licença da imagem [FreePik](https://www.freepik.com/free-vector/hackathon-isometric-landing-software-development_9292828.htm#page=1&query=hackathon&position=12)
