@@ -3,6 +3,12 @@
 
 # [2021](#2021)
 
+
+## :rocket: Junho
+
+
+- [GFT Digital Innovation Lab - HackGirl@GFT](https://easy-feedback.de/hackgirlgft-interesse/1309752/KqK4dh)
+
 ## :rocket: Abril
 - [Brasa Hacks | do dia 1 a 4](https://gobrasa.us.hivebrite.com/events/7641)
 - [INPI | do dia 5 a 12](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-lanca-edital-para-hackathon-que-sera-realizado-de-5-a-12-de-abril)
