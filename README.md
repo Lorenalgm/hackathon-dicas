@@ -148,6 +148,7 @@
  - [Gitkraken](https://www.gitkraken.com/) 
  - [WakaTime](https://wakatime.com/)
  - [Hyper](https://hyper.is/)
+ - [Responsively - A Web Developer Browser](https://responsively.app/)
 
 ### Editor de texto
   - [Visual Studio Code](https://code.visualstudio.com/)
