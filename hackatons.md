@@ -9,6 +9,7 @@
 
 ## :rocket: Maio
 - [Batalha de dados](https://www.itau.com.br/batalhadedados-social)
+- [Zenvia Experience Builders](https://www.zenvia.com/experience/builders/?utm_source=Prensa&utm_medium=artigo&utm_campaign=como-usar-os-seus-talentos-para-um-agro-mais-inteligente#inscricao)
 
 ## :rocket: Abril
 - [Brasa Hacks | do dia 1 a 4](https://gobrasa.us.hivebrite.com/events/7641)
