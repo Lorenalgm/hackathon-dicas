@@ -6,6 +6,7 @@
 ## :rocket: Julho
 - [Hacka House](https://dev-house-community.github.io/HACKA-HOUSE/)
 - [Tetrix Challenge](https://tetrixchallenge.com/)
+- [Hackatagro](https://www.hackatagro.com/desafio-claro)
 
 ## :rocket: Junho
 - [GFT Digital Innovation Lab - HackGirl@GFT](https://easy-feedback.de/hackgirlgft-interesse/1309752/KqK4dh)
