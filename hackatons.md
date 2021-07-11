@@ -8,6 +8,8 @@
 - [Tetrix Challenge](https://tetrixchallenge.com/)
 - [Hackatagro](https://www.hackatagro.com/desafio-claro)
 - [HackaTek](https://poatek.com/hackatek/)
+- [Hackathon Reboot The World - Campus Party](https://digital.campus-party.org/sao-paulo/hackathon/)
+- [Call for Code](https://callforcode.shawee.io/)
 
 ## :rocket: Junho
 - [GFT Digital Innovation Lab - HackGirl@GFT](https://easy-feedback.de/hackgirlgft-interesse/1309752/KqK4dh)
