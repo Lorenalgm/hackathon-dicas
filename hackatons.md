@@ -2,6 +2,8 @@
     <h1 align="center">Fique por dentro dos próximos hackathons </h1>
 
 # [2021](#2021)
+## :rocket: Agosto
+- [Hackathon BNDES](https://www.bndes.gov.br/wps/portal/site/home/transparencia/iniciativas/!ut/p/z1/fY5NC4JAEIbv_govHmVWiOxqFn4QgeRB9yKTLjGVu-pu0s_PxOrWZZ53YJ6XAW7ZtmVBMWEKy_gQuMSRLmhISbxDASVfV34WhXGw8g6bPA5ZFqbT4kdelHiQzuLPfzf8N4rFWM6_gJKufc8D4LWSRjwNFNvjbn-qEqkNmUc9f-SwWLXCYfmAUnc4CFkTOowkTTQ0onZYN4iWlNtgo7SLZzEYpaG78fIFRBWnjA!!/)
 
 ## :rocket: Julho
 - [Hacka House](https://dev-house-community.github.io/HACKA-HOUSE/)
@@ -10,6 +12,7 @@
 - [HackaTek](https://poatek.com/hackatek/)
 - [Hackathon Reboot The World - Campus Party](https://digital.campus-party.org/sao-paulo/hackathon/)
 - [Call for Code](https://callforcode.shawee.io/)
+- [Hackaton Lab Procel](https://www.sympla.com.br/hackathon-lab-procel__1264734 )
 
 ## :rocket: Junho
 - [GFT Digital Innovation Lab - HackGirl@GFT](https://easy-feedback.de/hackgirlgft-interesse/1309752/KqK4dh)
@@ -27,17 +30,17 @@
 - [Hackathon Virtual Experience](https://www.sympla.com.br/hackathon-vitual-experience__1156824)
 
 ## :rocket: Março
-- Hackaton Smiles: https://www.hackathonsmiles.com.br/
-- Accenture Maraton: https://www.accenture.com/br-pt/careers/event/maraton-tecnologia-que-rompe-barreiras
-- Hackathon das Manas - 1ª Edição: Goiás: https://www.sympla.com.br/hackathon-das-manas---1-edicao-goias__1117630
+- [Hackaton Smiles](https://www.hackathonsmiles.com.br/)
+- [Accenture Maraton](https://www.accenture.com/br-pt/careers/event/maraton-tecnologia-que-rompe-barreiras)
+- [Hackathon das Manas - 1ª Edição: Goiás](https://www.sympla.com.br/hackathon-das-manas---1-edicao-goias__1117630)
 
 ## :rocket: Fevereiro
-- HackTudo: https://www.hacktudo.com.br/
-- Hackathon das Manas: https://www.sympla.com.br/hackathon-das-manas---1-edicao-goias__1117630
+- [HackTudo](https://www.hacktudo.com.br/)
+- [Hackathon das Manas](https://www.sympla.com.br/hackathon-das-manas---1-edicao-goias__1117630)
 
 ## :rocket: Janeiro
-- CCR: http://www.grupoccr.com.br/hackathonccr/
-- Provi Hack: https://marketing.provi.com.br/provi-hack-woman
+- [CCR](http://www.grupoccr.com.br/hackathonccr/)
+- [Provi Hack](https://marketing.provi.com.br/provi-hack-woman)
 
 
 
