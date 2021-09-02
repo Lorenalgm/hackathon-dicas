@@ -7,6 +7,8 @@
 
 ## :rocket: Setembro
 
+- [Tech Journey](https://www.techjourney.navi.com.br/)
+
 ## :rocket: Agosto
 - [Hackathon BNDES](https://www.bndes.gov.br/wps/portal/site/home/transparencia/iniciativas/!ut/p/z1/fY5NC4JAEIbv_govHmVWiOxqFn4QgeRB9yKTLjGVu-pu0s_PxOrWZZ53YJ6XAW7ZtmVBMWEKy_gQuMSRLmhISbxDASVfV34WhXGw8g6bPA5ZFqbT4kdelHiQzuLPfzf8N4rFWM6_gJKufc8D4LWSRjwNFNvjbn-qEqkNmUc9f-SwWLXCYfmAUnc4CFkTOowkTTQ0onZYN4iWlNtgo7SLZzEYpaG78fIFRBWnjA!!/)
 
