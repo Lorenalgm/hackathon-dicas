@@ -2,6 +2,11 @@
     <h1 align="center">Fique por dentro dos próximos hackathons </h1>
 
 # [2021](#2021)
+## :rocket: Outubro
+- [NASA International Space Apps Challenge 2021 BELÉM - 1ª edição](https://www.sympla.com.br/nasa-international-space-apps-challenge-2021-belem---1-edicao__1213921)
+
+## :rocket: Setembro
+
 ## :rocket: Agosto
 - [Hackathon BNDES](https://www.bndes.gov.br/wps/portal/site/home/transparencia/iniciativas/!ut/p/z1/fY5NC4JAEIbv_govHmVWiOxqFn4QgeRB9yKTLjGVu-pu0s_PxOrWZZ53YJ6XAW7ZtmVBMWEKy_gQuMSRLmhISbxDASVfV34WhXGw8g6bPA5ZFqbT4kdelHiQzuLPfzf8N4rFWM6_gJKufc8D4LWSRjwNFNvjbn-qEqkNmUc9f-SwWLXCYfmAUnc4CFkTOowkTTQ0onZYN4iWlNtgo7SLZzEYpaG78fIFRBWnjA!!/)
 
