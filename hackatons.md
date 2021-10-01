@@ -4,6 +4,7 @@
 # [2021](#2021)
 ## :rocket: Outubro
 - [NASA International Space Apps Challenge 2021 BELÉM - 1ª edição](https://www.sympla.com.br/nasa-international-space-apps-challenge-2021-belem---1-edicao__1213921)
+- [Hackathon START](https://hackathonstart.com/)
 
 ## :rocket: Setembro
 
