@@ -2,6 +2,11 @@
     <h1 align="center">Fique por dentro dos próximos hackathons </h1>
 
 # [2021](#2021)
+## :rocket: Novembro
+- [Hackathon DeFi para o Brasil](https://defiparaobrasil.com.br/)
+- [Hackathon Start](https://hackathonstart.com/)
+- [ProviHack](http://conteudos.provi.com.br/provihackpratodos/)
+
 ## :rocket: Outubro
 - [NASA International Space Apps Challenge 2021 BELÉM - 1ª edição](https://www.sympla.com.br/nasa-international-space-apps-challenge-2021-belem---1-edicao__1213921)
 - [Hackathon START](https://hackathonstart.com/)
