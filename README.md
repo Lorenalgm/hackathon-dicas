@@ -25,6 +25,7 @@
 - [Dashboards](#bar_chart-dashboards)
 - [Devs](#woman_technologist-devs)
 - [Livros](#books-livros)
+- [Como contribuir](#rocket-como-contribuir)
 
 ## :camera: Ícones e imagens
  
@@ -124,6 +125,7 @@
  - [Rawshorts](https://www.rawshorts.com/)
  - [Obs](https://obsproject.com/pt-br/download)
  - [Peek](https://github.com/phw/peek)
+ - [Vidyard](https://www.vidyard.com/)
  
 ## :clapper: Edicao de video
  - [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
@@ -152,6 +154,7 @@
 
 ### Editor de texto
   - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Sublime Text](https://www.sublimetext.com/)
   
  ### API
  - [Insomnia](https://insomnia.rest/download)
@@ -166,7 +169,10 @@
  - O Pitch (quase) Perfeito
  - Hackathons Unboxed: A Field Guide to Ideating, Leading and Winning
 
-
-
+## :rocket: Como contribuir
+Deseja contribuir com este repositório?
+1 - Faça o fork do projeto
+2 - Atualize o readme com novas dicas ou novos hackathons que vão acontecer durante o ano
+3 - Envie sua pull request
    
       - Licença da imagem [FreePik](https://www.freepik.com/free-vector/hackathon-isometric-landing-software-development_9292828.htm#page=1&query=hackathon&position=12)
