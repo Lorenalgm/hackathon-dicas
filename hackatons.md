@@ -3,6 +3,7 @@
 
 # [2021](#2021)
 ## :rocket: Novembro
+- [UiPath Innovation RPA Hackathon](https://uipath.devpost.com/?utm_source=devpost&utm_medium=alert&utm_campaign=20211029_allinterest)
 - [Hackathon DeFi para o Brasil](https://defiparaobrasil.com.br/)
 - [Hackathon Start](https://hackathonstart.com/)
 - [ProviHack](http://conteudos.provi.com.br/provihackpratodos/)
