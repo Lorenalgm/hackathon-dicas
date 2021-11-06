@@ -171,8 +171,8 @@
 
 ## :rocket: Como contribuir
 Deseja contribuir com este repositório?
-1 - Faça o fork do projeto
-2 - Atualize o readme com novas dicas ou novos hackathons que vão acontecer durante o ano
-3 - Envie sua pull request
+- 1 - Faça o fork do projeto
+- 2 - Atualize o readme com novas dicas ou novos hackathons que vão acontecer durante o ano
+- 3 - Envie sua pull request
    
-      - Licença da imagem [FreePik](https://www.freepik.com/free-vector/hackathon-isometric-landing-software-development_9292828.htm#page=1&query=hackathon&position=12)
+  - Licença da imagem [FreePik](https://www.freepik.com/free-vector/hackathon-isometric-landing-software-development_9292828.htm#page=1&query=hackathon&position=12)
